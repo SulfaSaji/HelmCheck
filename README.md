@@ -20,7 +20,6 @@ The project also includes a **Streamlit web application dashboard** for real-tim
 [Click here to watch the demo video](https://drive.google.com/file/d/1iEE_9ZvtM6dz5Ft4Oz54LSlhQhqboHi-/view?usp=sharing)
 
 ---
----
 
 # 📌 Overview
 
