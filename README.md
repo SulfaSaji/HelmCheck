@@ -237,7 +237,7 @@ http://localhost:8501
 The repository also includes the project presentation slides.
 
 ```
-AI-Helmet-Detection-System.pptx
+HelmCheck.pptx
 ```
 
 The presentation explains:
@@ -262,7 +262,7 @@ HelmCheck
 ├── best.pt
 ├── requirements.txt
 ├── README.md
-├── AI-Helmet-Detection-System.pptx
+├── HelmCheck.pptx
 │
 ├── demo test dataset
 │   ├── images
