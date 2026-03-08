@@ -194,8 +194,8 @@ This enables **violation tracking and safety analysis**.
 ## 1️⃣ Clone the Repository
 
 ```
-git clone https://github.com/SulfaSaji/AI-Helmet-Detection-System.git
-cd AI-Helmet-Detection-System
+git clone https://github.com/SulfaSaji/HelmCheck.git
+cd HelmCheck
 ```
 
 ---
@@ -255,7 +255,7 @@ The presentation explains:
 # 📁 Project Structure
 
 ```
-AI-Helmet-Detection-System
+HelmCheck
 │
 ├── app.py
 ├── detect.py
