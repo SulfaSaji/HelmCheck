@@ -1,5 +1,4 @@
 # HelmCheck⛑️
-AI Helmet Detection System (YOLOv8)
 
 An AI-powered **Helmet Violation Detection System** built using **YOLOv8 and Computer Vision**.
 
