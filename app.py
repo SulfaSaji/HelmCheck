@@ -37,7 +37,7 @@ def load_model():
 
 model = load_model()
 
-st.title("AI Helmet Detection System")
+st.title("HelmCheck - AI Helmet Detection System")
 
 # =========================
 # SIDEBAR
@@ -283,3 +283,4 @@ elif menu=="Results Dashboard" and result_option=="Violation Images":
         path = os.path.join(violation_folder,selected_image)
 
         st.image(path,width=450,caption=selected_image)
+
