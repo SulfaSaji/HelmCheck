@@ -6,7 +6,7 @@ The system detects whether motorcycle riders are wearing helmets or not from **i
 
 Detection results are visualized with bounding boxes:
 
-🟢 Helmet detected → Green bounding box  
+ Helmet detected → Green bounding box  
 🔴 No Helmet detected → Red bounding box  
 
 The project also includes a **Streamlit web application dashboard** for real-time interaction and monitoring.
