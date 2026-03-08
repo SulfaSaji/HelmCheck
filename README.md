@@ -280,26 +280,7 @@ HelmCheck
     ├──violation_images_folder.png
     └── violation_images.png
 ```
-## Screenshots
----
 
-### Webcam Detection
-![Webcam Detection](screenshots/webcam_detection.png)
-
-### Image Detection
-![Image Detection](screenshots/image_detection.png)
-
-### Video Detection
-![Video Detection](screenshots/video_detection.png)
-
-### CSV Logs Dashboard
-![CSV Logs](screenshots/csv_logs.png)
-
-### Violation Image Folder Viewer
-![Violation Images Folder](screenshots/violation_images_folder.png)
-
-### Violation Image Viewer
-![Violation Images](screenshots/violation_images.png)
 ---
 
 # 🔮 Future Improvements
